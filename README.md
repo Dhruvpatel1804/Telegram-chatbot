@@ -13,7 +13,8 @@ Welcome to Telegram Chatbot! This chatbot allows users to engage in natural lang
 1. **Scan the QR Code**
    - Use your favorite QR code scanner to scan the provided QR code.
    - This will open a chat window in your Telegram app with the bot.
-   - 
+   - ![IMG-20230914-WA0002](https://github.com/Dhruvpatel1804/Telegram-chatbot/assets/97275086/f46e685c-91a9-4c4a-b747-54c50cfe91a7)
+
 
 2. **Start Chatting**
    - Once you've joined the chat, you can begin interacting with the bot.
