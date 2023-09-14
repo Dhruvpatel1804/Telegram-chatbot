@@ -29,28 +29,9 @@ If you prefer to use the Telegram app directly, you can find the bot by searchin
 - Receive responses based on the context of your messages.
 - Customize and extend the bot's functionality to suit your specific needs.
 
-## Setup
-
-To run this project locally, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Set up your OpenAI API key and Telegram bot token.
-3. Run the bot using your preferred Python environment.
-
 ## Dependencies
 
 - Python
 - OpenAI API
 - python-telegram-bot
 
-## Contributing
-
-We welcome contributions! If you have any ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Remember to replace placeholders like `[API_KEY]` with actual values or instructions on how to set them up. Additionally, make sure to provide clear instructions for users to follow in order to run the project locally.
